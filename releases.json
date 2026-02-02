@@ -1,9 +1,9 @@
 {
   "latest": {
-    "version": "2.6.0",
-    "build": 30,
+    "version": "2.6.1",
+    "build": 31,
     "releaseDate": "2026-02-02",
-    "downloadUrl": "https://github.com/ropermen/c-term-releases/releases/download/v2.6.0/c-term-2.6.0.apk",
-    "changelog": "- Verificacao automatica de atualizacoes ao iniciar o app\n- Dialogo de atualizacao com changelog\n- Download direto do GitHub releases"
+    "downloadUrl": "https://github.com/ropermen/c-term-releases/releases/download/v2.6.1/c-term-2.6.1.apk",
+    "changelog": "- Corrigido decoder UTF-8 para caracteres multi-byte\n- Caracteres Unicode agora exibem corretamente"
   }
 }

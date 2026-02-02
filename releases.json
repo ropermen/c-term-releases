@@ -1,0 +1,9 @@
+{
+  "latest": {
+    "version": "2.5.0",
+    "build": 29,
+    "releaseDate": "2026-02-02",
+    "downloadUrl": "https://github.com/ropermen/c-term-releases/releases/download/v2.5.0/c-term-2.5.0.apk",
+    "changelog": "- Fixed UTF-8 encoding for proper Unicode support\n- Claude Code and other modern CLI tools now display correctly"
+  }
+}
